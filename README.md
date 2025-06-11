@@ -28,3 +28,5 @@ This is an AI-powered plant disease detection system that uses deep learning and
 - Empower agriculture through AI by providing a simple, accurate, and fast plant disease detection tool.
 
 🌆 Design
+
+<a href="https://huggingface.co/spaces/Avishek23/LeafSense" target="_blank"><img src="/screenshots/1_HomePage.jpg" style="max-width: 100%;"></a>
