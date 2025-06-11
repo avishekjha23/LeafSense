@@ -26,3 +26,5 @@ This is an AI-powered plant disease detection system that uses deep learning and
 
 🎯 Objective
 - Empower agriculture through AI by providing a simple, accurate, and fast plant disease detection tool.
+
+🌆 Design
