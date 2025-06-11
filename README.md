@@ -2,6 +2,8 @@
 
 [https://huggingface.co/spaces/Avishek23/LeafSense]
 
+[https://drive.google.com/file/d/1g6Te5xZHc8w7WffxrT-vmL90kd5IHCzR/view?usp=drive_link]
+
 This is an AI-powered plant disease detection system that uses deep learning and image classification to identify diseases from leaf images. Built using Convolutional Neural Networks (CNNs), it helps farmers and agricultural professionals detect issues early and take timely action to reduce crop loss.
 
 🚀 Features
