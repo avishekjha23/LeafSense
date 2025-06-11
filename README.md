@@ -14,9 +14,9 @@ This is an AI-powered plant disease detection system that uses deep learning and
 
 - Frameworks: TensorFlow, Keras
 - Dataset: PlantVillage (Kaggle)
--Libraries: NumPy, OpenCV, Pillow, Matplotlib, Scikit-learn
+- Libraries: NumPy, OpenCV, Pillow, Matplotlib, Scikit-learn
 - Data Augmentation: Keras ImageDataGenerator
--Environment: Google Colab
+- Environment: Google Colab
 
 📊 Methodology
 
