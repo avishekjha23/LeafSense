@@ -24,9 +24,11 @@ This is an AI-powered plant disease detection system that uses deep learning and
 - CNN architecture trained and validated on labeled images
 - Performance evaluated on unseen data for accuracy and robustness
 
-🎯 Objective
-- Empower agriculture through AI by providing a simple, accurate, and fast plant disease detection tool.
 
 🌆 Design
 
 <a href="https://huggingface.co/spaces/Avishek23/LeafSense" target="_blank"><img src="/screenshots/1_HomePage.jpg" style="max-width: 100%;"></a>
+
+
+🎯 Objective
+- Empower agriculture through AI by providing a simple, accurate, and fast plant disease detection tool.
